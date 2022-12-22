@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+ 	    <head>
+          <meta charset="utf8">
+          <title> My Final Project Blackjack Game</title>
+    <style>
+    
+     body {
+      background-color: Rgb(97,232,255);
+     }
+     body
+     #nav-table { width: 1400px;}
+     #nav-td {width: 200px; text-align:center;}
+       </style>
+ 
+ </head>
+  <center>
+        <body>
+         <img src="csc106_banner.jpg">       
+<table style="margin-left:auto:margin-right">
+  <tr>
+   <th>
+   <td id="nav-td"><a target="blank_" href="https://marcus0257.github.io/index.html"> <img src="home2.png"> </td>
+   
+   <td id="nav-td"> <img src="apps2.png"> </td>
+   
+   <td id="nav-td"> <a target="blank_" href="https://marcus0257.github.io/javascripts.html"> <img src="java2.png"> </a> </td>
+   
+   <td id="nav-td"> <a target="blank_" href="https://marcus0257.github.io/about.html"> <img src="aboutme2.png"> </a> </td> 
+ 
+ </tr>
+ </tr>
+         </table>
+   <h1>Marcus Diaz's Apps</h1>
+<script src="https://www.khanacademy.org/computer-programming/blackjack-final-project/6346099006160896/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script>
+  
+   </body>
+ </center>
+         </html>
